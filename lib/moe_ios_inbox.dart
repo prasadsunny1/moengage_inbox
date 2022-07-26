@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'dart:core';
 
 import 'package:flutter/services.dart';
-import 'package:moengage_inbox/inbox_data.dart';
-import 'package:moengage_inbox/inbox_message.dart';
-import 'package:moengage_inbox/payload_transformer.dart';
-import 'package:moengage_inbox/constants.dart';
+import 'package:moengage_inbox_2/inbox_data.dart';
+import 'package:moengage_inbox_2/inbox_message.dart';
+import 'package:moengage_inbox_2/payload_transformer.dart';
+import 'package:moengage_inbox_2/constants.dart';
 
 class MoEiOSInbox {
   MethodChannel _channel;

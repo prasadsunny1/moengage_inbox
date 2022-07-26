@@ -1,14 +1,14 @@
 import 'dart:convert';
 
-import 'package:moengage_inbox/action.dart';
-import 'package:moengage_inbox/action_type.dart';
-import 'package:moengage_inbox/inbox_data.dart';
-import 'package:moengage_inbox/inbox_message.dart';
-import 'package:moengage_inbox/media.dart';
-import 'package:moengage_inbox/media_type.dart';
-import 'package:moengage_inbox/navigation_action.dart';
-import 'package:moengage_inbox/navigation_type.dart';
-import 'package:moengage_inbox/text_content.dart';
+import 'package:moengage_inbox_2/action.dart';
+import 'package:moengage_inbox_2/action_type.dart';
+import 'package:moengage_inbox_2/inbox_data.dart';
+import 'package:moengage_inbox_2/inbox_message.dart';
+import 'package:moengage_inbox_2/media.dart';
+import 'package:moengage_inbox_2/media_type.dart';
+import 'package:moengage_inbox_2/navigation_action.dart';
+import 'package:moengage_inbox_2/navigation_type.dart';
+import 'package:moengage_inbox_2/text_content.dart';
 
 Map<String, dynamic> messageToMap(InboxMessage inboxMessage) {
   Map<String, dynamic> message = {

@@ -1,6 +1,6 @@
-import 'package:moengage_inbox/action.dart';
-import 'package:moengage_inbox/action_type.dart';
-import 'package:moengage_inbox/navigation_type.dart';
+import 'package:moengage_inbox_2/action.dart';
+import 'package:moengage_inbox_2/action_type.dart';
+import 'package:moengage_inbox_2/navigation_type.dart';
 
 class NavigationAction extends Action {
   NavigationType navigationType;

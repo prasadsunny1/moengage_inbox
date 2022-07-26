@@ -1,4 +1,4 @@
-import 'package:moengage_inbox/action_type.dart';
+import 'package:moengage_inbox_2/action_type.dart';
 
 class Action {
   ActionType actionType;

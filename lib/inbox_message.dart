@@ -1,6 +1,6 @@
-import 'package:moengage_inbox/action.dart';
-import 'package:moengage_inbox/media.dart';
-import 'package:moengage_inbox/text_content.dart';
+import 'package:moengage_inbox_2/action.dart';
+import 'package:moengage_inbox_2/media.dart';
+import 'package:moengage_inbox_2/text_content.dart';
 
 class InboxMessage {
   /// internal identifier used by the SDK for storage.

@@ -1,4 +1,4 @@
-import 'package:moengage_inbox/media_type.dart';
+import 'package:moengage_inbox_2/media_type.dart';
 
 class Media {
   /// Content type of the Media.

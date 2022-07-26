@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:moengage_inbox/moengage_inbox.dart';
+import 'package:moengage_inbox_2/moengage_inbox.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('moengage_inbox');
@@ -17,6 +17,5 @@ void main() {
     channel.setMockMethodCallHandler(null);
   });
 
-  test('getPlatformVersion', () async {
-  });
+  test('getPlatformVersion', () async {});
 }

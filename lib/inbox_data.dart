@@ -1,4 +1,4 @@
-import 'package:moengage_inbox/inbox_message.dart';
+import 'package:moengage_inbox_2/inbox_message.dart';
 
 class InboxData {
   /// Native platform from which the callback was triggered.

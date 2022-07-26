@@ -2,11 +2,11 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/services.dart';
-import 'package:moengage_inbox/constants.dart';
-import 'package:moengage_inbox/inbox_data.dart';
-import 'package:moengage_inbox/inbox_message.dart';
-import 'package:moengage_inbox/moe_android_inbox.dart';
-import 'package:moengage_inbox/moe_ios_inbox.dart';
+import 'package:moengage_inbox_2/constants.dart';
+import 'package:moengage_inbox_2/inbox_data.dart';
+import 'package:moengage_inbox_2/inbox_message.dart';
+import 'package:moengage_inbox_2/moe_android_inbox.dart';
+import 'package:moengage_inbox_2/moe_ios_inbox.dart';
 
 class MoEngageInbox {
   late MethodChannel _channel;
