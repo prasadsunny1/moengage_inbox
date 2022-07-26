@@ -1,5 +1,11 @@
 # MoEngage Flutter Inbox Plugin
 
+### 4.0.2 *(26th July 2022)*
+- Some documentation updates
+
+### 4.0.1 *(26th July 2022)*
+- Some documentation updates
+
 ### 4.0.0 *(26th July 2022)*
 - Android
   - Native SDK updated to support version `12.x` and above.

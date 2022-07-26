@@ -1,3 +1,11 @@
+# Note
+
+This Plugin was old and unmaintained. For the benefit or larger Flutter dev community, I had to step in and upgrade it to support flutter 3.0 with some other maintanence stuff.
+
+If anyone from MoEngage is reading this, Please let me know if you need contribution in the official plugin. 
+
+Thanks.
+
 # MoEngage Inbox Plugin
 
 Inbox Plugin for MoEngage Platform
@@ -6,7 +14,7 @@ Inbox Plugin for MoEngage Platform
 
 To add the MoEngage Flutter SDK to your application, edit your application's `pubspec.yaml` file and add the below dependency to it:
 
-![Download](https://img.shields.io/pub/v/moengage_inbox.svg)
+![Download](https://img.shields.io/pub/v/moengage_inbox_2.svg)
 
 ```yaml
 dependencies:
@@ -21,7 +29,7 @@ Run flutter packages get to install the SDK.
  
  ### Android Installation
  
-![MavenBadge](http://maven-badges.herokuapp.com/maven-central/com.moengage/addon-inbox/badge.svg) 
+![MavenBadge](https://maven-badges.herokuapp.com/maven-central/com.moengage/addon-inbox/badge.svg) 
  
   Once you install the Flutter Plugin add MoEngage's native Android SDK dependency to the Android project of your application.
   Navigate to `android --> app --> build.gradle`. Add the MoEngage Android SDK's dependency in the `dependencies` block
